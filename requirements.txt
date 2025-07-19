@@ -2,5 +2,5 @@
 
 chainlit==1.0.200
 langchain==0.1.5
-pyautogen==0.2.10
+ag2==0.2.10
 python-dotenv==1.0.1
